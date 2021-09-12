@@ -7,7 +7,7 @@ There is no practical limits for my filtering capacity :)
 
 See <i>/help</i> for commands and more details.</b>
 
-Maded By : @BX_Botz
+Maded By : @BX_Botz @moviehub
 """
 
 
